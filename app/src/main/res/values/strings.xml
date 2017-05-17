@@ -1,0 +1,11 @@
+<resources
+    xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">MyLocation</string>
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+
+    <!-- Temperature formats in degrees [CHAR LIMIT=NONE] -->
+    <string name="format_temperature"><xliff:g id="temp">%1.0f</xliff:g>\u00B0</string>
+</resources>
